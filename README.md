@@ -23,6 +23,17 @@ Then open http://localhost:8000
 
 The site is deployed to HostGator via GitHub Actions. Push to `main` to trigger automatic deployment.
 
+### Required GitHub Secrets
+
+Add these in **Settings → Secrets and variables → Actions**:
+
+| Secret | Description |
+|--------|-------------|
+| `FTP_SERVER` | HostGator FTP host (e.g. `ftp.yourdomain.com`) |
+| `FTP_USERNAME` | FTP username |
+| `FTP_PASSWORD` | FTP password |
+| `FTP_SERVER_DIR` | Remote directory (e.g. `public_html` for root) |
+
 ## License
 
 cc0 Films production — All rights reserved
