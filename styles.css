@@ -230,6 +230,14 @@ body {
   font-weight: 500;
 }
 
+.project-description p {
+  margin: 0 0 1rem;
+}
+
+.project-description p:last-child {
+  margin-bottom: 0;
+}
+
 .project-details,
 .project-meta {
   margin: 0 0 1rem;
