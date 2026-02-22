@@ -190,7 +190,9 @@ body {
 
 .basepaint-logo {
   flex-shrink: 0;
-  border-radius: 4px;
+  height: 40px;
+  width: auto;
+  object-fit: contain;
 }
 
 .project-title--basepaint {
