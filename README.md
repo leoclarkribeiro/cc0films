@@ -1,14 +1,14 @@
 # cc0 Films
 
-A static portfolio website for cc0 Films — inspiring stories from Nouns and the onchain cc0 world.
+A static portfolio website for cc0 Films - inspiring stories from Nouns and the onchain cc0 world.
 
 ## Contents
 
-- **index.html** — Main landing page featuring Benbodhi: Decoded and Non-Fungible Aotearoa
-- **nfa.html** — Non-Fungible Aotearoa documentary page
-- **styles.css** — Styling (dark theme, gold accents, scroll animations)
-- **script.js** — Scroll-triggered animations and header behavior
-- **images/** — Logos, posters, and assets
+- **index.html** - Main landing page featuring Benbodhi: Decoded and Non-Fungible Aotearoa
+- **nfa.html** - Non-Fungible Aotearoa documentary page
+- **styles.css** - Styling (dark theme, gold accents, scroll animations)
+- **script.js** - Scroll-triggered animations and header behavior
+- **images/** - Logos, posters, and assets
 
 ## Local development
 
@@ -36,4 +36,4 @@ Add these in **Settings → Secrets and variables → Actions**:
 
 ## License
 
-cc0 Films production — All rights reserved
+cc0 Films production - All rights reserved
