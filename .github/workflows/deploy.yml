@@ -25,3 +25,6 @@ jobs:
             **/.DS_Store
             **/README.md
             **/.github
+            **/node_modules/**
+            **/package.json
+            **/package-lock.json
